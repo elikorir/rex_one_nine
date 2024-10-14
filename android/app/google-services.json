@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633451301958",
+    "project_id": "rex-app-fddf5",
+    "storage_bucket": "rex-app-fddf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633451301958:android:6005eaa8f6d2afddd38e47",
+        "android_client_info": {
+          "package_name": "com.rexapp.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhm0_Q3wkPak-xE2KV2W0MKsNHBUjnbxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
